@@ -1,5 +1,5 @@
 * DDCO-Project
-*	This project focuses on designing and implementing a digital circuit that counts the number of 1s in an 8-bit binary input. 
+*	This project focuses on designing and implementing a digital circuit that counts the number of 1s in an 8-bit binary input using iverilog.
 * This circuit is essential in bitwise analysis such as error-checking algorithms, digital signal processing,etc.
 * The circuit design consists of three main components:
 •	Input Register: An 8-bit register to hold the binary input data (data_in).
